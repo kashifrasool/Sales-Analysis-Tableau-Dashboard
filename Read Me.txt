@@ -3,4 +3,4 @@ Sales Analysis - Tableau Dashboard
 Kashif Rasool
 
 
-Link:
+Link: https://public.tableau.com/app/profile/kashif.rasool/viz/SalesAnalysisTableauDashboard/Dashboard1?publish=yes
