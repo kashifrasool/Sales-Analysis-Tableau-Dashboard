@@ -1,5 +1,8 @@
 Sales Analysis - Tableau Dashboard
 
+In this project, I have used Tableau to build a dashboard to present sales Analysis.
+
+
 Kashif Rasool
 
 
